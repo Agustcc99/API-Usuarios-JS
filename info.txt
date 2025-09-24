@@ -1,0 +1,4 @@
+LISTAR USUARIOS: http://localhost:3000/api/users
+ELIMINAR USUARIO POR ID: http://localhost:3000/api/users/REEMPLAZA_ID
+ACTUALIZAR USUARIO: http://localhost:3000/api/users/REEMPLAZA_ID
+CREAR USUARIO: http://localhost:3000/api/users
